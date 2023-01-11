@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="title_activity_temp_converter">Temperature Converter</string>
+    <string name="title_activity_currency_converter">Currency Converter</string>
+    <string name="title_activity_email">Send Email</string>
+    <string name="hey">Hey</string>
+    <string name="im_going_to">I\'m going to</string>
+    <string name="implement_the_interface_here">implement the interface here</string>
+    <string name="LA_description">Los Angeles, officially the City of Los Angeles and known colloquially by its initials LA, is the most populous city in California and the second most populous city in the United States, after New York. With an estimated population of four million, Los Angeles is the cultural, financial, and commercial center of the West Coast. Nicknamed the \"City of Angels\" partly because of its name\'s Spanish meaning, Los Angeles is known for its Mediterranean climate, ethnic diversity, Hollywood and the entertainment industry, and sprawling metropolis.
+Los Angeles is in a large basin bounded by the Pacific Ocean on one side and by mountains as high as 10,000 feet (3,000 m) on the others. The city proper, which covers about 469 square miles (1,210 km2),[18] is the seat of Los Angeles County, the most populated county in the country. Los Angeles is also the principal city of the Los Angeles metropolitan area, the second largest in the United States after that of New York City, with a population of 13.1 million. It is part of the Los Angeles-Long Beach combined statistical area, also the nation\'s second most populous area with a 2015 estimated population of 18.7 million.
+ Los Angeles is one of the most substantial economic engines within the United States, with a diverse economy in a broad range of professional and cultural fields. Los Angeles is also famous as the home of Hollywood, a major center of the world entertainment industry. A global city, it has been ranked 6th in the Global Cities Index and 9th in the Global Economic Power Index. The Los Angeles combined statistical area also has a gross metropolitan product of $831 billion (as of 2008), making it the third-largest in the world, after the Tokyo and New York metropolitan areas. Los Angeles hosted the 1932 and 1984 Summer Olympics and will host the event for a third time in 2028. The city also hosted the Miss Universe pageant twice, in 1990 and 2006, and was one of 9 American cities to host the 1994 FIFA men\'s soccer World Cup and one of 8 to host the 1999 FIFA women\'s soccer World Cup, hosting the final match for both tournaments.</string>
+    <string name="temperature_converter">TEMPERATURE CONVERTER</string>
+    <string name="currency_converter">CURRENCY CONVERTER</string>
+    <string name="email_friend">EMAIL FRIEND</string>
+    <string name="convert">CONVERT</string>
+    <string name="currency">Currency</string>
+    <string name="rate">Rate</string>
+    <string name="singapore_dollars">Singapore Dollars</string>
+    <string name="to_fahrenheit">to Fahrenheit</string>
+    <string name="to_celsius">to Celsius</string>
+    <string name="clear">CLEAR</string>
+    <string name="enter_temperature_here">Enter temperature here</string>
+    <string name="los_angeles">Los Angeles</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="city">City</string>
+    <string name="preview_message">PREVIEW MESSAGE</string>
+    <string name="send_email">SEND EMAIL</string>
+
+</resources>
